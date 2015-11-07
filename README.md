@@ -53,7 +53,7 @@ Submitting a feature request
 
 #### Where to submit a feature request
 
-To create a feature request, you can submit one at https://github.com/MCAPI-CA/Issues/issues/new it is recommended that you read the [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) article to make your feature request easier to read.
+To create a feature request, you can submit one at [issues tab](https://github.com/MCAPI-CA/Issues/issues/new) it is recommended that you read the [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) article to make your feature request easier to read.
 
 ----------
 
