@@ -31,7 +31,7 @@ Submitting an issue
 
 #### Where to submit an issue
 
-To create an issue report, you can submit one at https://github.com/MCAPI-CA/Issues/issues/new it is recommended that you read the [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) article to make your issue easier to read.
+To create an issue report, you can submit one at the [issues tab](https://github.com/MCAPI-CA/Issues/issues/new). it is recommended that you read the [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) article to make your issue easier to read.
 
 ----------
 
